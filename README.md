@@ -25,8 +25,6 @@ Tools Used
 Exploratory Data Analysis (EDA)
 
 The dataset was cleaned and analyzed using Python.
-<img width="1176" height="640" alt="Screenshot 2026-07-31 102303" src="https://github.com/user-attachments/assets/00f54f57-034e-4b9f-9b53-e6b5da671963" />
-
 EDA Tasks Performed
 
 - Data Cleaning
@@ -44,6 +42,7 @@ Power BI Dashboard
 
 An interactive dashboard was developed to visualize key business metrics.
 The Power_Query also done .
+
 
 KPIs
 
@@ -64,6 +63,10 @@ Dashboard Visualizations
 - Top Products by Revenue
 - Top Vendors by Shipments
 - Vendor Contribution Analysis
+ 
+Dashboard
+<img width="1176" height="640" alt="Screenshot 2026-07-31 102303 (1)" src="https://github.com/user-attachments/assets/817d6251-6fe1-44d0-a6e3-a4e012d52bf2" />
+
 
 Key Insights
 
