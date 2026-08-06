@@ -25,6 +25,7 @@ Tools Used
 Exploratory Data Analysis (EDA)
 
 The dataset was cleaned and analyzed using Python.
+<img width="1176" height="640" alt="Screenshot 2026-07-31 102303" src="https://github.com/user-attachments/assets/00f54f57-034e-4b9f-9b53-e6b5da671963" />
 
 EDA Tasks Performed
 
