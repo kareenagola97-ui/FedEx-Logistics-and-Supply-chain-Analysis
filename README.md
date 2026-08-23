@@ -65,8 +65,8 @@ Dashboard Visualizations
 - Vendor Contribution Analysis
  
 Dashboard
-<img width="1176" height="640" alt="Screenshot 2026-07-31 102303 (1)" src="https://github.com/user-attachments/assets/817d6251-6fe1-44d0-a6e3-a4e012d52bf2" />
 
+<img width="1351" height="815" alt="Fedx_Screenshot" src="https://github.com/user-attachments/assets/d69e870d-12d7-438b-bd20-267e9edb27ff" />
 
 Key Insights
 
