@@ -46,14 +46,11 @@ The Power_Query also done .
 
 KPIs
 
-- Total Revenue
-- Total Shipments
-- Total Freight Cost
-- Average Freight Cost
-- Total Countries
-- Total Brands
-- Total Vendors
-- Total Weight
+- Total Revenue: 1.63 billion
+- Total Shipments:  10k
+- Total Freight Cost: 68.82 billion
+- Total Vendors : 73
+
 
 Dashboard Visualizations
 
